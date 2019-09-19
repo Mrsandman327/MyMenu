@@ -27,6 +27,6 @@
 *.lib*.cpp*.h
 
 # Executables
-*.exe
+
 *.out
 *.app
