@@ -1,5 +1,5 @@
 LPPOINT lpoint = new tagPOINT;
-::GetCursorPos(lpoint);//得到鼠标位置
+::GetCursorPos(lpoint);//得到当前鼠标位置
 //先创建一个子菜单，在添加在父菜单中
 CMyMenu SnbMenu;
 SnbMenu.SetItemSize(CSize(95,26));					//设置菜单项目尺寸
